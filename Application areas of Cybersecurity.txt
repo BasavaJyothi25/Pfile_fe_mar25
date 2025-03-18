@@ -1,0 +1,60 @@
+Application areas of Cybersecurity and Data Privacy:
+1. Financial Services
+2. Healthcare
+3. Government and Defense
+4. Energy and Utilities
+5. Emerging Technologies
+give the images for these topics in cybersecurity
+
+
+
+Tools used in Cybersecurity and Data Privacy
+1. Network Security Tools
+2. Endpoint Protection Tools
+3. Encryption Tools
+4. Identity and Access Management (IAM) Tools
+5. Threat Intelligence and Monitoring Tools
+
+
+
+keywords :Objectives or priciples of Cybersecurity and Data Privacy
+Tools used in Cybersecurity and Data Privacy
+Cyber attacks
+Tools used in cybersecurity
+Application areas of cybersecurity and data privacy
+Data Encryption in Cybersecurity
+Data Privacy 
+protection laws and regulations of data Privacy and cybersecurity
+Data breaches
+Emerging technologies like AI&ML
+Role of blockchain in securing data and privacy
+The organizations balancing between Cybersecurity Measures and User Privacy rights:
+
+
+
+
+Java Wrapper Classes
+Wrapper classes convert primitive data types into objects (e.g., int → Integer).
+Used in collections, generics, and object-oriented programming.
+Support Autoboxing (automatic conversion of primitive to wrapper) and Unboxing (conversion of wrapper to primitive).
+Provide utility methods like valueOf(), xxxValue(), and parseXXX().
+Common wrapper classes: Integer, Double, Float, Boolean, Character, etc.
+Scanner Class in Java
+The Scanner class is used to read user input from the keyboard, files, or strings.
+Supports multiple input types: int, double, String, boolean, etc.
+Key methods include nextInt(), nextDouble(), nextLine(), next(), and hasNextInt().
+Best practice: Always close the scanner after use to avoid resource leaks.
+
+
+A Wrapper Class is a class that wraps a primitive data type into an object. It allows primitive values (like int, double, char, etc.) to be used as objects.
+
+
+Why Use Wrapper Classes?
+Object-Oriented Programming: Java treats everything as an object, so wrapper classes allow primitives to be used where objects are needed.
+Collections & Generics: Data structures like ArrayList and HashMap store only objects, not primitives.
+Utility Methods: Wrapper classes provide useful methods for conversion, parsing, and operations.
+Autoboxing & Unboxing: Java automatically converts primitives to wrapper objects and vice versa.
+
+
+Conclusion:
+Wrapper classes bridge the gap between primitive types and Java’s object-oriented features. They are useful in collections, data processing, and type conversions
